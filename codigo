@@ -176,7 +176,7 @@
 
   <header>
     <div class="container">
-      <img src="logo.png" alt="SOMNUS Logo" class="logo">
+      <img src="logotipo.png.jpg" alt="SOMNUS Logo" class="logo">
       <h1>SOMNUS</h1>
       <p class="tagline">Decoding Sleep Health Through Data Science</p>
       <div class="author">
